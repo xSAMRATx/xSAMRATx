@@ -7,7 +7,7 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 ## 💼 Experience
 
 - **Software Engineer — CSN Bangladesh Ltd** · Jun 2026 – Present
-  - CSB Travel (Laravel + Vue/Nuxt), syncing wholesaler promotional deals, and auto-posting deals to Facebook Pages via Meta's API
+  - CSN Travel (Laravel + Vue/Nuxt), syncing wholesaler promotional deals, and auto-posting deals to Facebook Pages via Meta's API
 - **Software Engineer — 6amTech** · Aug 2025 – Mar 2026
 - **Software Engineer — CodeCloud Technology** · Feb 2024 – Apr 2025 (incl. internship)
 
