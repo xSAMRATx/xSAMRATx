@@ -30,7 +30,7 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 - **[LARAVEL_REACT_INERTIA_CRUD](https://github.com/xSAMRATx/LARAVEL_REACT_INERTIA_CRUD)** — Laravel + React + Inertia CRUD
 - **[User_Interface_Laravel_Inertia_Vue](https://github.com/xSAMRATx/User_Interface_Laravel_Inertia_Vue)** — Laravel + Inertia + Vue UI
 - **[erp_sales_module](https://github.com/xSAMRATx/erp_sales_module)** — ERP sales module (Laravel)
-- **[PROJECT](https://github.com/xSAMRATx/PROJECT)** — HTML/CSS/JS design builds: Amazon, YouTube & Google clones, parallax site, restaurant, university & music pages
+- **[PROJECT](https://github.com/xSAMRATx/PROJECT)** — HTML/CSS/JS design builds: Amazon, YouTube & Google clones, parallax site, restaurant, university & music pages · [Live demo](https://xsamratx.github.io/PROJECT/)
 - **[portfolio](https://github.com/xSAMRATx/portfolio)** — My portfolio site: a single Laravel 12 project with a React 19 + TypeScript + Tailwind 4 frontend and a Sanctum-protected admin panel
 
 ## 🎓 Education & training
