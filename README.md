@@ -2,13 +2,15 @@
 
 **Software Engineer · Laravel · React / Vue · TypeScript — Dhaka, Bangladesh**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-aziz-samrat-797738206/)
+
 I build full-stack web apps — Laravel APIs on the back end, React / Vue on the front end — and I like keeping the code simple, professional, and business-logic-first.
 
 ## 💼 Experience
 
 - **Software Engineer — CSN Bangladesh Ltd** · Jun 2026 – Present
   - CSN Travel (Laravel + Vue/Nuxt), syncing wholesaler promotional deals, and auto-posting deals to Facebook Pages via Meta's API
-- **Software Engineer — 6amTech** · Aug 2025 – Mar 2026
+- **Software Engineer — 6amTech** · Jul 2025 – Apr 2026
 - **Software Engineer — CodeCloud Technology** · Feb 2024 – Apr 2025 (incl. internship)
 
 ## 🛠️ Tech stack
@@ -45,4 +47,5 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 ## 📫 Connect
 
 - GitHub: [@xSAMRATx](https://github.com/xSAMRATx)
+- LinkedIn: [md-abdul-aziz-samrat](https://www.linkedin.com/in/md-abdul-aziz-samrat-797738206/)
 - Portfolio: [xSAMRATx/portfolio](https://github.com/xSAMRATx/portfolio) — add the live URL here once it's deployed
