@@ -2,7 +2,7 @@
 
 **Software Engineer · Laravel · React / Vue · TypeScript — Dhaka, Bangladesh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-aziz-samrat-797738206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-samrat)
 
 I build full-stack web apps — Laravel APIs on the back end, React / Vue on the front end — and I like keeping the code simple, professional, and business-logic-first.
 
@@ -47,5 +47,5 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 ## 📫 Connect
 
 - GitHub: [@xSAMRATx](https://github.com/xSAMRATx)
-- LinkedIn: [md-abdul-aziz-samrat](https://www.linkedin.com/in/md-abdul-aziz-samrat-797738206/)
+- LinkedIn: [aziz-samrat](https://www.linkedin.com/in/aziz-samrat)
 - Portfolio: [xsamratx.github.io](https://xsamratx.github.io/) · code: [xSAMRATx/portfolio](https://github.com/xSAMRATx/portfolio)
