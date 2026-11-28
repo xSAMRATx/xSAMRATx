@@ -31,7 +31,7 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 - **[User_Interface_Laravel_Inertia_Vue](https://github.com/xSAMRATx/User_Interface_Laravel_Inertia_Vue)** — Laravel + Inertia + Vue UI
 - **[erp_sales_module](https://github.com/xSAMRATx/erp_sales_module)** — ERP sales module (Laravel)
 - **[PROJECT](https://github.com/xSAMRATx/PROJECT)** — HTML/CSS/JS design builds: Amazon, YouTube & Google clones, parallax site, restaurant, university & music pages · [Live demo](https://xsamratx.github.io/PROJECT/)
-- **[portfolio](https://github.com/xSAMRATx/portfolio)** — My portfolio site: a single Laravel 12 project with a React 19 + TypeScript + Tailwind 4 frontend and a Sanctum-protected admin panel
+- **[portfolio](https://github.com/xSAMRATx/portfolio)** — My portfolio site: a single Laravel 12 project with a React 19 + TypeScript + Tailwind 4 frontend and a Sanctum-protected admin panel · [Live site](https://xsamratx.github.io/)
 
 ## 🎓 Education & training
 
@@ -48,4 +48,4 @@ I build full-stack web apps — Laravel APIs on the back end, React / Vue on the
 
 - GitHub: [@xSAMRATx](https://github.com/xSAMRATx)
 - LinkedIn: [md-abdul-aziz-samrat](https://www.linkedin.com/in/md-abdul-aziz-samrat-797738206/)
-- Portfolio: [xSAMRATx/portfolio](https://github.com/xSAMRATx/portfolio) — add the live URL here once it's deployed
+- Portfolio: [xsamratx.github.io](https://xsamratx.github.io/) · code: [xSAMRATx/portfolio](https://github.com/xSAMRATx/portfolio)
